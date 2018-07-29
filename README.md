@@ -4,5 +4,11 @@
 ### Use:
 - Python3 amazon-price-scraper.py `add product page url here`
 
-OR: have product url in clipboard
+OR: have the product url in clipboard
 - Python3 amazon-price-scraper.py
+
+
+### Libraries:
+- pyperclip
+- requests
+- beautifulsoup4
